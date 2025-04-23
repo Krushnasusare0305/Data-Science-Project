@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Credit Card Fraud Detection
 
 A machine learning project to detect fraudulent credit card transactions using various classification algorithms.
@@ -19,3 +20,6 @@ The dataset contains credit card transactions with the following characteristics
 - 'Class': Target variable (1 for fraud, 0 for normal)
 
 ## Project Structure
+=======
+# Data-Science-Project
+>>>>>>> 6d411b6b911ceb9b20482d8aadf0e80b95f6769d
